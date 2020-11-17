@@ -2,7 +2,12 @@ successful commit from evelyn
 New change, not commit to master branch
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit test from Eve
 =======
 ianchai
 >>>>>>> ianchai
+=======
+commit test from Eve
+2nd try Eve
+>>>>>>> EveRui
